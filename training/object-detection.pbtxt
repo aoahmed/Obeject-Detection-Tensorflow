@@ -1,0 +1,12 @@
+item {
+  id: 1
+  name: 'bottle'
+}
+item {
+  id: 2
+  name: 'cell phone'
+}
+item {
+  id: 3
+  name: 'person'
+}
